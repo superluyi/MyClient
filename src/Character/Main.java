@@ -12,9 +12,9 @@ public class Main {
 class ClientCrtl{
 	public void start() {
 		
-		HashMapClient aHashMapClient = new HashMapClient();		                                                                                //HashMapClient用于存储IP地址和字符的映射表
-		aHashMapClient.characterMap();                                                                                                                                      //初始化存储字符映射表
-		aHashMapClient.ipMap();                                                                                                                                                     //初始化存储字符映射表
+		//HashMapClient aHashMapClient = new HashMapClient();		                                                                                //HashMapClient用于存储IP地址和字符的映射表
+		//aHashMapClient.characterMap();                                                                                                                                      //初始化存储字符映射表
+		//aHashMapClient.ipMap();                                                                                                                                                     //初始化存储字符映射表
 		/*测试hashmap
 		System.out.println(aHashMapClient.getCharacterValue('e'));
 		System.out.println(aHashMapClient.getIpValue(6));*/
